@@ -4,7 +4,6 @@ import "./Layout.css";
 function Layout() {
   return (
     <>
-      <hr></hr>
       <div className="layout">
         <div className="container">
           <div className="img_rocket">
