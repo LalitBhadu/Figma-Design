@@ -1,0 +1,33 @@
+.dobuts {
+  width: 1280px;
+  height: 632px;
+  /* flex-shrink: 0; */
+}
+.doubts h1 {
+  color: #000;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.form-select {
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  border: rgb(77, 72, 72);
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-bottom: 30px;
+}
+.form-select-lg {
+  margin-left: 50px;
+  margin-bottom: 30px;
+}

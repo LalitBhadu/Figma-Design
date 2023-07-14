@@ -1,0 +1,19 @@
+.navbar {
+  width: 1280px;
+  background-color: white;
+}
+.gap-6 {
+  gap: 6px;
+}
+.d-flex {
+  margin-right: 20px;
+}
+.nav-item {
+  margin-left: 80px;
+}
+.btn {
+  margin-left: 40px;
+}
+.container-fluid {
+  border: 2px;
+}

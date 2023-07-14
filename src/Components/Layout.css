@@ -1,0 +1,64 @@
+body {
+  width: 1200px;
+  height: 732px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    #c0e3fc 0%,
+    rgba(123, 226, 195, 0.8) 100%
+  );
+}
+
+.img_rocket {
+  width: 109.522px;
+  height: 182px;
+  flex-shrink: 0;
+  margin-left: 250px;
+  display: inline-flex;
+}
+.girl-on-psychologist {
+  width: 628px;
+  height: 628px;
+  /* flex-shrink: 0; */
+  margin-left: 370px;
+}
+.rocket {
+  height: 170px;
+  width: 100px;
+  margin-top: 50px;
+}
+.girl {
+  height: 370px;
+  width: 370px;
+}
+.layout-heading {
+  margin: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.layout-heading h1 {
+  font-size: 20px;
+  margin-left: -250px;
+}
+.layout-heading h6 {
+  font-size: 25px;
+  align-self: center;
+  margin-left: 120px;
+}
+.button-demo {
+  margin-left: 200px;
+  margin-top: 120px;
+}
+.btndemo1 {
+  width: 200px;
+  height: 90px;
+  margin-right: 60px;
+  border-radius: 34px;
+  background-color: #358279;
+  color: #fff;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

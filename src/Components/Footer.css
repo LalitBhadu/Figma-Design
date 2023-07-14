@@ -1,0 +1,23 @@
+.footer {
+  width: 1285px;
+  /* height: 604px; */
+  background: #3d7196;
+}
+.apps {
+  margin: 20px;
+  display: inline-block;
+  flex-direction: column;
+}
+.apps svg {
+  margin-left: 20px;
+}
+.pages {
+  padding: 2em;
+  font-size: large;
+  display: inline-block;
+  margin-left: 270px;
+}
+
+.pages a {
+  color: black;
+}

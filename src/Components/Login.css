@@ -1,0 +1,60 @@
+.login {
+  height: 100vw;
+  width: 100vw;
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+
+.line {
+  border-right: 1px solid rgb(0, 0, 0);
+  height: 80vw;
+  margin-right: 1050px;
+}
+.ellipse {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  background: lightgray 50% / cover no-repeat;
+  margin: 10px;
+}
+.icon {
+  margin-left: 50px;
+  border-bottom: 2px solid black;
+  margin-bottom: 4px;
+}
+.icon svg {
+  margin-top: 50px;
+}
+.icon-name {
+  margin-top: 30px;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.icon-2 {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-bottom: 2px solid black;
+  margin-bottom: 7%;
+}
+.icon-2 svg {
+  margin-top: 30px;
+}
+.icon-3 {
+  margin-left: 50px;
+  margin-top: 20px;
+  border-bottom: 2px solid black;
+  margin-bottom: 7%;
+}
+
+.icon-3 svg {
+  margin-top: 50px;
+}
+.icon-3 .icon-name {
+  margin-top: 20px;
+}
